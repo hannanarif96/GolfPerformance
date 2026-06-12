@@ -33,3 +33,8 @@ A mobile application for tracking and analyzing golf player performance, built a
 ```bash
 git clone https://github.com/hannanarif96/GolfPerformance.git
 cd GolfPerformance
+```
+
+## Additional Documentation
+
+See [Architecture and Design Decisions](ARCHITECTURE.md)
