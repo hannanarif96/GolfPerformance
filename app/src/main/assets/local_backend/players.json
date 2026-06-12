@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Tiger Woods",
+    "clubName": "Jupiter Island Club",
+    "averageBallSpeed": 180.2,
+    "averageCarryDistance": 305.5,
+    "profileImageUrl": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_08793.png"
+  },
+  {
+    "id": "2",
+    "name": "Rory McIlroy",
+    "clubName": "The Bear's Club",
+    "averageBallSpeed": 182.5,
+    "averageCarryDistance": 315.2,
+    "profileImageUrl": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_28237.png"
+  },
+  {
+    "id": "3",
+    "name": "Scottie Scheffler",
+    "clubName": "Royal Oaks CC",
+    "averageBallSpeed": 178.9,
+    "averageCarryDistance": 302.1,
+    "profileImageUrl": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_46046.png"
+  },
+  {
+    "id": "4",
+    "name": "Jon Rahm",
+    "clubName": "Silverleaf Club",
+    "averageBallSpeed": 179.5,
+    "averageCarryDistance": 308.4,
+    "profileImageUrl": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_46970.png"
+  },
+  {
+    "id": "5",
+    "name": "Brooks Koepka",
+    "clubName": "Floridian GC",
+    "averageBallSpeed": 181.2,
+    "averageCarryDistance": 312.0,
+    "profileImageUrl": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_36689.png"
+  },
+  {
+    "id": "6",
+    "name": "Viktor Hovland",
+    "clubName": "Miklagard GC",
+    "averageBallSpeed": 177.4,
+    "averageCarryDistance": 298.5,
+    "profileImageUrl": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_46774.png"
+  },
+  {
+    "id": "7",
+    "name": "Xander Schauffele",
+    "clubName": "The Farms GC",
+    "averageBallSpeed": 176.8,
+    "averageCarryDistance": 296.2,
+    "profileImageUrl": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_48081.png"
+  },
+  {
+    "id": "8",
+    "name": "Patrick Cantlay",
+    "clubName": "Virginia CC",
+    "averageBallSpeed": 175.5,
+    "averageCarryDistance": 294.1,
+    "profileImageUrl": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_35450.png"
+  },
+  {
+    "id": "9",
+    "name": "Max Homa",
+    "clubName": "Valencia CC",
+    "averageBallSpeed": 174.2,
+    "averageCarryDistance": 291.8,
+    "profileImageUrl": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_35549.png"
+  },
+  {
+    "id": "10",
+    "name": "Matt Fitzpatrick",
+    "clubName": "The Wisley",
+    "averageBallSpeed": 173.9,
+    "averageCarryDistance": 290.5,
+    "profileImageUrl": "https://pga-tour-res.cloudinary.com/image/upload/c_fill,d_headshots_default.png,f_auto,g_face:center,h_350,q_auto,w_280/headshots_40098.png"
+  }
+]

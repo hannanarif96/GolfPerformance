@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/playerListFragment">
+
+    <fragment
+        android:id="@+id/playerListFragment"
+        android:name="com.rapsodo.golfperformance.ui.playerlist.PlayerListFragment"
+        android:label="Golf Performance Tracker"
+        tools:layout="@layout/fragment_player_list">
+        <action
+            android:id="@+id/action_playerListFragment_to_playerDetailFragment"
+            app:destination="@id/playerDetailFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/playerDetailFragment"
+        android:name="com.rapsodo.golfperformance.ui.playerdetail.PlayerDetailFragment"
+        android:label="Player Details"
+        tools:layout="@layout/fragment_player_detail">
+        <argument
+            android:name="playerId"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_playerDetailFragment_to_statsFragment"
+            app:destination="@id/statsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/statsFragment"
+        android:name="com.rapsodo.golfperformance.ui.stats.StatsFragment"
+        android:label="Performance Trends"
+        tools:layout="@layout/fragment_stats">
+        <argument
+            android:name="playerId"
+            app:argType="string" />
+    </fragment>
+</navigation>
