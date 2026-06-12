@@ -50,19 +50,19 @@ The layered structure makes it straightforward to add new features, data sources
 
 ### Player List and Details Screen
 
-![Player List](screenshots/player_list.jpg)
+<img src="screenshots/player_list.jpg" width="350" alt="Player List" title="Player List">
 
 ### Player List and Details Screen (Search)
 
-![Player List (Search)](screenshots/player_list_search.jpg)
+<img src="screenshots/player_list_search.jpg" width="350" alt="Player List (Search)" title="Player List (Search)">
 
 ### Player Shots Screen
 
-![Player Shot Details](screenshots/player_shots.jpg)
+<img src="screenshots/player_shots.jpg" width="350" alt="Player Shot Details" title="Player Shot Details">
 
 ### Shot Performance Trends Screen
 
-![Performance Trends](screenshots/shot_performance_trends.jpg)
+<img src="screenshots/shot_performance_trends.jpg" width="350" alt="Performance Trends" title="Performance Trends">
 
 ## Conclusion
 
