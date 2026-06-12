@@ -50,19 +50,19 @@ The layered structure makes it straightforward to add new features, data sources
 
 ### Player List and Details Screen
 
-![Player List](screenshots/player_list.png)
+![Player List](screenshots/player_list.jpg)
 
 ### Player List and Details Screen (Search)
 
-![Player List (Search)](screenshots/player_list_search.png)
+![Player List (Search)](screenshots/player_list_search.jpg)
 
 ### Player Shots Screen
 
-![Player Shot Details](screenshots/player_shots.png)
+![Player Shot Details](screenshots/player_shots.jpg)
 
 ### Shot Performance Trends Screen
 
-![Performance Trends](screenshots/shot_performance_trends.png)
+![Performance Trends](screenshots/shot_performance_trends.jpg)
 
 ## Conclusion
 
